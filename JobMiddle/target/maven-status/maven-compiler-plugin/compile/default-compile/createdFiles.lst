@@ -1,0 +1,13 @@
+com\niit\JobMiddle\Controller\BlogController.class
+com\niit\JobMiddle\Controller\FriendController.class
+com\niit\JobMiddle\Config\DispatcherServletconfig.class
+com\niit\JobMiddle\Controller\FourmCommentsController.class
+com\niit\JobMiddle\Controller\BlogCommentsController.class
+com\niit\JobMiddle\Controller\JobController.class
+com\niit\JobMiddle\Controller\ProfilePictureController.class
+com\niit\JobMiddle\Controller\CustomerController.class
+com\niit\JobMiddle\Controller\OneUserController.class
+com\niit\JobMiddle\Config\WebConfig.class
+com\niit\JobMiddle\Controller\AdminController.class
+com\niit\JobMiddle\Controller\LoginController.class
+com\niit\JobMiddle\Controller\ForumController.class
